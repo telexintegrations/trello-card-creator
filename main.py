@@ -65,8 +65,8 @@ def get_integration_json(request: Request):
                 "- Automatically creates Trello cards",
                 "- Supports multiple boards",
             ],
-            "integration_category": "Productivity Tools",
-            "author": "Your Name",
+            "integration_category": "Product Management",
+            "author": "Nadduli Daniel",
             "website": base_url,
             "settings": [
                 {
